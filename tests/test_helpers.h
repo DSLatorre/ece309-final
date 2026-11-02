@@ -29,6 +29,7 @@
 #include <system_error>
 #include <vector>
 
+#include <unistd.h>
 #include <stdlib.h>   // mkdtemp (POSIX)
 
 namespace test_helpers {
